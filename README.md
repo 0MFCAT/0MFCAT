@@ -1,4 +1,5 @@
-### Hi there 👋
+### I'm a computer engineering student who is currently studying to become a blockchain developer, there is still a long road ahead, but with perseverance and sacrifice there is no goal that can resist 😁
+
 
 <!--
 **0MFCAT/0MFCAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
